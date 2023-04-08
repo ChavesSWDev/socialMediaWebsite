@@ -1,5 +1,6 @@
-<h1 style="text-align: center">Social Media Website</h1>
-
+<div align='center'>
+  <h1>Social Media Website</h1>
+</div>
 <div align='center'><img style="width:100%" src='https://user-images.githubusercontent.com/116752330/230701521-36d4843e-dfc1-4815-a020-f31ee0bf44e6.png'/></div>
 
 <h2>About the project</h2>
