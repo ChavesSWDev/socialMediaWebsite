@@ -8,6 +8,7 @@
 
 
   <p>A <b>Social Media</b> website is an online platform that allows users to publish what they want, customize their profile, see other people or friends posts, talk to different users and so on.</p>
+  <p>This project is just the front end build, it means the back end where u can register, make a login, publish your images and thoughts, its actually not working, this is just a demo view of how it will looks like when u start add people to your friend list, see their posts and do your own posts.</p>
 
 👉 Live Demo: <a href='https://chavesswdev.github.io/socialMediaWebsite/' target='_blank'>SocialMedia Website Demo</a>
 
